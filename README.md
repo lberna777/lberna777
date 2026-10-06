@@ -1,7 +1,7 @@
 ### Lorenzo Bernardini
 
 Studente di Ingegneria informatica all'Università di Bologna. Costruisco piccole applicazioni su misura
-che risolvono un problema preciso, con specifiche scritte prima del codice e test automatici a ogni passo.
+che risolvono un problema preciso, senza la falsa pretesa sempre più comune, di automatizzare qualunque processo.
 
 **Fascicolo progetti:** https://lberna777.github.io
 
